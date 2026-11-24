@@ -1,0 +1,4 @@
+scenario,assumed_incremental_capture_fraction_of_rainfall,incremental_recharge_depth_mm_year,incremental_volume_MCM_year
+Baseline,0.0,0.0,0.0
+Low intervention screening,0.01,19.503321399999997,51.12571020566847
+Higher intervention screening,0.02,39.006642799999995,102.25142041133694
